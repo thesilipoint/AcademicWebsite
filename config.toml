@@ -1,0 +1,91 @@
+baseURL = "https://silicakole.info"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Professional Website of Silica Kole"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Hello, I'm Silica"
+author = "Silica Kole"
+description = "I am an Academician, Researcher & Engineering College Prof. Welcome to my Professional Profile."
+profilePicture = "https://thesilipoint.com/wp-content/uploads/2020/09/silicakole.info-DP.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+# Google Site Verification
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/thesilipoint/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/thesilipoint/"
+
+[[params.socialIcons]]
+icon = "fa-medium"
+title = "Medium"
+url = "https://medium.com/@thesilipoint"
+
+[[params.socialIcons]]
+icon = "fa-youtube"
+title = "YouTube"
+url = "https://bit.ly/thesilipointYT"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/thesilipoint/"
+
+
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Honors"
+  weight = 300
+  identifier = "honors"
+  url = "silicakole.info/honors/"
+
+  [[menu.main]]
+  name = "Resume"
+  weight = 300
+  identifier = "resume"
+  url = "silicakole.info/resume/"
+
+  [[menu.main]]
+  name = "Papers"
+  weight = 300
+  identifier = "papers"
+  url = "silicakole.info/papers/"
+
+  
