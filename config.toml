@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://silicakole.info/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Professional Website of Silica Kole"
@@ -19,7 +19,7 @@ author = "Silica Kole"
 description = "I am an Academician, Researcher & Engineering College Prof. Welcome to my Professional Profile."
 profilePicture = "https://thesilipoint.com/wp-content/uploads/2020/09/silicakole.info-DP.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/sk_favicon.io"
 customCss = []
 customJs = []
 mainSections = ["post"]
@@ -74,24 +74,24 @@ url = "https://www.twitter.com/thesilipoint/"
   name = "Honors"
   weight = 300
   identifier = "honors"
-  url = "/honors/"
+  url = "https://silicakole.info/honors/"
 
   [[menu.main]]
   name = "Resume"
   weight = 300
   identifier = "resume"
-  url = "/resume/"
+  url = "https://silicakole.info/resume/"
 
   [[menu.main]]
   name = "Papers"
   weight = 300
   identifier = "papers"
-  url = "/papers/"
+  url = "https://silicakole.info/papers/"
 
   [[menu.main]]
   name = "Certifications"
   weight = 300
   identifier = "certifications"
-  url = "/certifications/"
+  url = "https://silicakole.info/certifications/"
 
   
