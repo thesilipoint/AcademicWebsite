@@ -89,9 +89,9 @@ url = "https://www.twitter.com/thesilipoint/"
   url = "/papers/"
 
   [[menu.main]]
-  name = "Certification"
+  name = "Certifications"
   weight = 300
-  identifier = "certification"
-  url = "/certification/"
+  identifier = "certifications"
+  url = "/certifications/"
 
   
