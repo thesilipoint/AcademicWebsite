@@ -1,4 +1,4 @@
-baseURL = "https://silicakole.info"
+baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Professional Website of Silica Kole"
@@ -74,18 +74,24 @@ url = "https://www.twitter.com/thesilipoint/"
   name = "Honors"
   weight = 300
   identifier = "honors"
-  url = "silicakole.info/honors/"
+  url = "/honors/"
 
   [[menu.main]]
   name = "Resume"
   weight = 300
   identifier = "resume"
-  url = "silicakole.info/resume/"
+  url = "/resume/"
 
   [[menu.main]]
   name = "Papers"
   weight = 300
   identifier = "papers"
-  url = "silicakole.info/papers/"
+  url = "/papers/"
+
+  [[menu.main]]
+  name = "Certification"
+  weight = 300
+  identifier = "certification"
+  url = "/certification/"
 
   
