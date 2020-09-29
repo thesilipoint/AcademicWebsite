@@ -77,10 +77,10 @@ url = "https://www.twitter.com/thesilipoint/"
   url = "/honors/"
 
   [[menu.main]]
-  name = "Resume"
+  name = "CV"
   weight = 300
-  identifier = "resume"
-  url = "/resume/"
+  identifier = "cv"
+  url = "/cv/"
 
   [[menu.main]]
   name = "Papers"
