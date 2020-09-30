@@ -1,6 +1,6 @@
 ---
-title: "Certifications"
-date: 2020-09-30T03:54:41+05:30
+title: "Certifications Acquired"
+date: 2020-09-30T20:52:00+05:30
 draft: true
 ---
 ### List of Short Term Courses and Faculty Development Programs Attended:
@@ -24,4 +24,3 @@ Website: <https://www.nsit.ac.in/>
 Certificate Issue Date: March 2017
 Issued by: Jawaharlal Nehru University (JNU), New Delhi
 Website: <https://www.jnu.ac.in/main/>
-
