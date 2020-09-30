@@ -1,8 +1,11 @@
----
-title: "Certifications Acquired"
-date: 2020-09-30T20:52:00+05:30
-draft: true
----
++++
+title = "Certifications"
+description = "List of my Certifications Acquired"
+date = "2020-09-28"
+aliases = ["Short-Term-Courses","Faculty-Development-Program","Quality-Improvement-Program"]
+author = "Silica Kole"
++++
+
 ### List of Short Term Courses and Faculty Development Programs Attended:
 
 #### Short Term Course on Digital Signal Processing using MATLAB (DSPM 2019)
