@@ -89,9 +89,9 @@ url = "https://www.twitter.com/thesilipoint"
   url = "/honors/"
 
   [[menu.main]]
-  name = "CV"
+  name = "Resume"
   weight = 500
-  identifier = "cv"
-  url = "/cv/"
+  identifier = "resume"
+  url = "/resume/"
 
   
