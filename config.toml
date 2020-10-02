@@ -71,18 +71,6 @@ url = "https://www.twitter.com/thesilipoint"
   url = "/"
 
   [[menu.main]]
-  name = "Honors"
-  weight = 400
-  identifier = "honors"
-  url = "/honors/"
-
-  [[menu.main]]
-  name = "CV"
-  weight = 500
-  identifier = "cv"
-  url = "/cv/"
-
-  [[menu.main]]
   name = "Papers"
   weight = 200
   identifier = "papers"
@@ -93,5 +81,17 @@ url = "https://www.twitter.com/thesilipoint"
   weight = 300
   identifier = "certifications"
   url = "/certifications/"
+
+  [[menu.main]]
+  name = "Honors"
+  weight = 400
+  identifier = "honors"
+  url = "/honors/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 500
+  identifier = "cv"
+  url = "/cv/"
 
   
