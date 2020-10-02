@@ -92,6 +92,5 @@ url = "https://www.twitter.com/thesilipoint"
   name = "Resume"
   weight = 500
   identifier = "resume"
-  url = "/resume/"
-
+  url = "/resume/" 
   
