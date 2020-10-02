@@ -72,19 +72,19 @@ url = "https://www.twitter.com/thesilipoint"
 
   [[menu.main]]
   name = "Honors"
-  weight = 300
+  weight = 400
   identifier = "honors"
   url = "/honors/"
 
   [[menu.main]]
   name = "CV"
-  weight = 300
+  weight = 500
   identifier = "cv"
   url = "/cv/"
 
   [[menu.main]]
   name = "Papers"
-  weight = 300
+  weight = 200
   identifier = "papers"
   url = "/papers/"
 
