@@ -54,9 +54,9 @@ title = "YouTube"
 url = "https://bit.ly/thesilipointYT"
 
 [[params.socialIcons]]
-icon = "fa-reddit"
-title = "Reddit"
-url = "https://www.reddit.com/user/thesilipoint"
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/thesilipoint"
 
 
 
