@@ -114,9 +114,9 @@ disqusShortname = "yourdiscussshortname"
             url = "/papers/"
 
             [[languages.en.menu.main]]
-            name = "Certificates"
+            name = "Certifications"
             weight = 3
-            url = "/certificates/"
+            url = "/certifications/"
 
             [[languages.en.menu.main]]
              name = "Honors"
