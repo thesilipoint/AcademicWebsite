@@ -82,18 +82,23 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/thesilipoint/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
-    weight = 4
+    weight = 3
     url = "https://www.linkedin.com/in/thesilipoint/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
-    weight = 5
+    weight = 4
     url = "https://medium.com/@thesilipoint"
+[params.social]]
+    name = "YouTube"
+    icon = "fa fa-youtube"
+    weight = 5
+    url = "https://www.youtube.com/channel/UCCVE1tnC2oSbX1k3MLP4piA?sub_confirmation=1"    
 
 
 
