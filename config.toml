@@ -106,25 +106,24 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
-            url = "about/"
+            url = "/about/"
 
             [[languages.en.menu.main]]
             name = "Papers"
             weight = 2
-            url = "papers/"
+            url = "/papers/"
 
             [[languages.en.menu.main]]
             name = "Certificates"
             weight = 3
-            url = "certificates/"
+            url = "/certificates/"
 
             [[languages.en.menu.main]]
              name = "Honors"
             weight = 5
-            url = "honors/"
+            url = "/honors/"
 
             [[languages.en.menu.main]]
             name = "Resume"
             weight = 5
-            url = "resume/"
-            
+            url = "/resume/"
