@@ -21,12 +21,12 @@ disqusShortname = "yourdiscussshortname"
     info = "I am an Academician, Researcher & Engineering College Prof. Welcome to my Professional Profile"
     avatarurl = "https://thesilipoint.com/wp-content/uploads/2020/09/silicakole.info-DP.jpg"
     #gravatar = "sk@silicakole.info"
-    footercontent = "Work to become, not to acquire. —Elbert Hubbard"
+    footercontent = "Work to become, not to acquire - Elbert Hubbard"
 
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
@@ -109,55 +109,22 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
-
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
-
-
-    [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
-
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "About"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
             name = "Papers"
             weight = 2
             url = "papers/"
 
-            [[languages.pt-br.menu.main]]
+            [[languages.en.menu.main]]
             name = "Certificates"
             weight = 3
             url = "certificates/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Honors"
+            [[languages.en.menu.main]]
+             name = "Honors"
             weight = 5
             url = "honors/"
 
-            [[languages.pt-br.menu.main]]
+            [[languages.en.menu.main]]
             name = "Resume"
             weight = 5
             url = "resume/"
+            
