@@ -1,6 +1,6 @@
 +++
 title = "Research Papers"
-slug = "research-papers"
+slug = "papers"
 +++
 
 ### List of Published Research Papers:
