@@ -1,11 +1,12 @@
----
-title: "Introduction"
-date: 2020-09-19T03:22:05+05:30
-Description: "Describing myself in few words"
-Tags: []
-Categories: []
-DisableComments: true
----
++++ 
+date = "2020-09-20"
+title = "Introduction"
+slug = "introduction" 
+tags = []
+categories = []
+series = ["intro", "about me"]
++++
+
 I am Silica Kole. I chose Technical Teaching as a Career at the age of 24, right after my Master of Technology in Computer Science Engineering. Currently, I am working as an Assistant Professor at a prominent Engineering College in New Delhi, India.
 
 In my 8 years of a teaching career, I have had the opportunity to teach and interact with more than 1500 undergrad students. 

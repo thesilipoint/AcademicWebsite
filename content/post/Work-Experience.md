@@ -1,11 +1,11 @@
----
-title: "Work Experience"
-date: 2020-09-18T00:38:48+05:30
-Description: "My Work Experience"
-Tags: []
-Categories: []
-DisableComments: true
----
++++ 
+date = "2020-09-15"
+title = "Work Experience"
+slug = "work-experience" 
+tags = []
+categories = []
+series = ["work", "wxperience"]
++++
 #### Bharati Vidyapeeth's College of Engineering 
 
 Affiliated to: Guru Govind Singh Indraprastha University, New Delhi, India (under UGC Govt. of India)

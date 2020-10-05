@@ -1,11 +1,12 @@
----
-title: "Education"
-date: 2020-09-19T03:11:07+05:30
-Description: "My Degrees"
-Tags: []
-Categories: []
-DisableComments: true
----
++++ 
+date = "2020-09-18"
+title = "Education"
+slug = "education" 
+tags = []
+categories = []
+series = ["Degrees", "Institutes"]
++++
+
 #### Master of Technology in Computer Science Engineering
 
 University: Rajasthan Technical University, Kota, Rajasthan, India (under UGC Govt. of India)
