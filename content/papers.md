@@ -1,5 +1,5 @@
 +++
-title = "Research Papers"
+title = "Papers"
 slug = "papers"
 +++
 
