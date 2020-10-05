@@ -94,7 +94,7 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-medium"
     weight = 4
     url = "https://medium.com/@thesilipoint"
-[params.social]]
+[[params.social]]
     name = "YouTube"
     icon = "fa-youtube"
     weight = 5
