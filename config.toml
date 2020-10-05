@@ -76,12 +76,12 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
     name = "Github"
-    icon = "fa-github"
+    icon = "fa fa-github"
     weight = 1
     url = "https://github.com/thesilipoint/"
 [[params.social]]
     name = "Twitter"
-    icon = "fa-twitter"
+    icon = "fa fa-twitter"
     weight = 2
     url = "https://twitter.com/thesilipoint/"
 [[params.social]]
@@ -96,7 +96,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://medium.com/@thesilipoint"
 [[params.social]]
     name = "YouTube"
-    icon = "fa-youtube"
+    icon = "fa fa-youtube"
     weight = 5
     url = "https://www.youtube.com/channel/UCCVE1tnC2oSbX1k3MLP4piA?sub_confirmation=1"    
 
