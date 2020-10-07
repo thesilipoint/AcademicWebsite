@@ -125,10 +125,15 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
              name = "Honors"
-            weight = 5
+            weight = 4
             url = "/honors/"
 
             [[languages.en.menu.main]]
-            name = "Resume"
+            name = "Volunteer"
             weight = 5
+            url = "/volunteer/"
+
+            [[languages.en.menu.main]]
+            name = "Resume"
+            weight = 6
             url = "/resume/"
