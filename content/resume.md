@@ -19,7 +19,7 @@ slug = "resume"
 <https://www.researchgate.net/profile/Silica_Kole>
 
 
-### ORCHID ID
+### Orchid ID
 
 <https://orcid.org/0000-0002-7484-712X>
 
