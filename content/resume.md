@@ -1,5 +1,5 @@
 +++
-title = "Resume & Online Profiles"
+title = "Resume & Profiles"
 slug = "resume"
 +++
 
