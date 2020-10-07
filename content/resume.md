@@ -1,7 +1,20 @@
 +++
-title = "Download My Resume"
+title = "Resume & Online Profiles"
 slug = "resume"
 +++
 
 
-<li class=nav-item><a data-scroll class=nav-link href=https://github.com/thesilipoint/AcademicCV/raw/main/silica-cv.pdf>RESUME</a></li>
+### Download CV
+
+<https://github.com/thesilipoint/AcademicCV/raw/main/silica-cv.pdf>
+
+
+### Google Scholar
+
+<https://scholar.google.com/citations?user=wEMNS4MAAAAJ&hl=en>
+
+
+### Research Gate 
+
+<https://www.researchgate.net/profile/Silica_Kole>
+
