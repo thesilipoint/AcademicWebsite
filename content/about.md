@@ -31,7 +31,7 @@ University: National Institute of Technology (NIT), Goa, India
 
 Date of Enrollment: September 2021
 
-Mode: Part Time (on Study Leave from Employer)
+Mode: Part Time (Currently on Study Leave from Employer)
 
 CGPA in 1st Semester: 8.5
 
