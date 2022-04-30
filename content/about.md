@@ -5,23 +5,37 @@ slug = "about"
 
 ## INTRODUCTION
 
-I am Silica Kole. I chose Technical Teaching as a Career at the age of 24, right after my Master of Technology in Computer Science Engineering. Currently, I am working as an Assistant Professor at a prominent Engineering College in New Delhi, India.
+I am Silica Kole. I chose Academics as a Career at the age of 24 years, right after my Master of Technology in Computer Science Engineering. Currently, I am pursuing a Ph.D. Degree while on a Study Leave in Computer Science Engineering from National Institute of Technology, Goa, India.
 
-In my 8 years of a teaching career, I have had the opportunity to teach and interact with more than 1500 undergrad students. 
+My research interests lies in the areas of Machine Learning, Data Mining and Bio Inspired Algorithms. 
+
+In my 10 years of a teaching career, I have had the opportunity to teach and interact with more than 1500 undergrad students. 
 
 I have worked on several Computer Engineering based Projects on Topics like Image Processing, Network Security, Computer Networks, Data Science, Artificial Intelligence, and Machine Learning. 
 
-I have published a few Research Papers in some prominent International Journals. What I like most about my job is the chance to keep up with Technology and the Interaction with bright young minds. 
+I have published a few Research Papers in some prominent International Journals.
 
-I am planning to start my Ph.D. soon in the field of Artificial Intelligence and Data Science. I am available to take up roles as a Research Associate or Teaching Assistant at any Prominent Global University. 
+
 
 My strengths are Honesty, Diligence, Curiosity, and the love for Science. 
 
-#### Connect with me at: sk[at]silicakole[dot]info
+#### Connect with me at: silicaster[at]gmail[dot]com
 
 
 
 ## EDUCATION
+
+#### Pursuing Ph.D. in Computer Science Engineering
+
+University: National Institute of Technology (NIT), Goa, India
+
+Date of Enrollment: September 2021
+
+Mode: Part Time (on Study Leave from Employer)
+
+CGPA in 1st Semester: 8.5
+
+Website: <https://www.nitgoa.ac.in>
 
 #### Master of Technology in Computer Science Engineering
 
