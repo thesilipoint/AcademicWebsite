@@ -73,9 +73,11 @@ Post: Assistant Professor
 
 Department: Computer Science Engineering
 
-Duration: 8 years 5 months
+Duration: 2012 -- Present
 
 Appointment: Regular
+
+Currently on Study Leave for pursuing Ph.D. at NIT Goa, India
 
 ##### Roles & Responsibilities:
 
