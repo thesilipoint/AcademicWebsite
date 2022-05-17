@@ -129,9 +129,9 @@ disqusShortname = "yourdiscussshortname"
             url = "/honors/"
 
             [[languages.en.menu.main]]
-            name = "Volunteer"
+            name = "UN Volunteer"
             weight = 5
-            url = "/volunteer/"
+            url = "/un volunteer/"
 
             [[languages.en.menu.main]]
             name = "Resume"
