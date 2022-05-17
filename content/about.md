@@ -5,7 +5,7 @@ slug = "about"
 
 ## INTRODUCTION
 
-I am Silica Kole. I chose Academics as a Career at the age of 24 years, right after my Master of Technology in Computer Science Engineering. Currently, I am pursuing a Ph.D. Degree while on a Study Leave in Computer Science Engineering from National Institute of Technology, Goa, India.
+I am Silica Kole. I have chosen Academics as a Career at the age of 24 years, right after my "Master of Technology" Degree in Computer Science & Engineering. Currently, I am a Research Scholar for Ph.D. Degree in Computer Science & Engineering, at National Institute of Technology, Goa, India (an Institution of National Importance, funded by the Government of India).
 
 My research interests lies in the areas of Machine Learning, Data Mining and Bio Inspired Algorithms. 
 
@@ -13,11 +13,9 @@ In my 10 years of a teaching career, I have had the opportunity to teach and int
 
 I have worked on several Computer Engineering based Projects on Topics like Image Processing, Network Security, Computer Networks, Data Science, Artificial Intelligence, and Machine Learning. 
 
-I have published a few Research Papers in some prominent International Journals.
+I have published some Research Papers in prominent International Journals with Google citation.
 
-
-
-My strengths are Honesty, Diligence, Curiosity, and the love for Science. 
+My strengths are Honesty, Diligence, Curiosity, and the love for Science & Technology
 
 #### Connect with me at: silicaster[at]gmail[dot]com
 
@@ -25,21 +23,22 @@ My strengths are Honesty, Diligence, Curiosity, and the love for Science.
 
 ## EDUCATION
 
-#### Pursuing Ph.D. in Computer Science Engineering
+#### Pursuing Ph.D. in Computer Science & Engineering
 
 University: National Institute of Technology (NIT), Goa, India
 
 Date of Enrollment: September 2021
 
-Mode: Part Time (Currently on Study Leave from Employer)
+Mode: Part Time enrollment with full time Research Effort
 
-CGPA in 1st Semester: 8.5
+CGPA in PhD Coursework: 8.5
 
 Website: <https://www.nitgoa.ac.in>
 
-#### Master of Technology in Computer Science Engineering
 
-University: Rajasthan Technical University, Kota, Rajasthan, India (under UGC Govt. of India)
+#### Master of Technology in Computer Science & Engineering
+
+University: Rajasthan Technical University, Kota, Rajasthan, India (under University Grants Commission, Govt. of India)
 
 Duration: Two-year Degree Course (2009-11)
 
@@ -49,9 +48,10 @@ CGPA: 7.4
 
 Website: <https://www.rtu.ac.in>
 
-#### Bachelor of Engineering in Computer Science Engineering
 
-University: Maharshi Dayanand University, Rohtak, Haryana, India (under UGC Govt. of India)
+#### Bachelor of Engineering in Computer Science & Engineering
+
+University: Maharshi Dayanand University, Rohtak, Haryana, India (under University Grants Commission, Govt. of India)
 
 Duration: Four-year Degree Course (2005-09)
 
@@ -67,11 +67,11 @@ Website: <https://mdurohtak.ac.in>
 
 #### Bharati Vidyapeeth's College of Engineering 
 
-Affiliated to: Guru Govind Singh Indraprastha University, New Delhi, India (under UGC Govt. of India)
+Affiliated to: Guru Govind Singh Indraprastha University, New Delhi, India (under University Grants Commission, Govt. of India)
 
 Post: Assistant Professor
 
-Department: Computer Science Engineering
+Department: Computer Science & Engineering
 
 Duration: 2012 -- Present
 
