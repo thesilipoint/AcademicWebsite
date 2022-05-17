@@ -1,6 +1,6 @@
 +++
 title = "Volunteer Experience"
-slug = "UN volunteer"
+slug = "volunteer"
 +++
 
 ### United Nations (UN) Volunteer 
