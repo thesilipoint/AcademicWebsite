@@ -5,6 +5,12 @@ slug = "papers"
 
 ### List of Published Research Papers:
 
+#### June 2023
+
+Silica Kole, Venkatanareshbabu Kuppili (2023). Detection of Canine Parvovirus using ELM and Support Vector Machine Algorithm from Blood Tests. 2023 International Conference on Computer, Electronics & Electrical Engineering & their Applications (IC2E3). IEEE .
+<https://ieeexplore.ieee.org/abstract/document/10262676>
+
+
 #### May 2018
 
 Silica Kole, Hassan, S., Arya, M., & Bhardwaj, U. (2018). Extraction and Classification of User Interface Components from an Image. International Journal of Pure and Applied Mathematics, 118(24), Special Issue.
